@@ -1556,6 +1556,15 @@
     "repo": "https://github.com/bodil/purescript-signal.git",
     "version": "v10.1.0"
   },
+  "simple-crypto": {
+    "dependencies": [
+      "maybe",
+      "prelue",
+      "node-buffer
+    ],
+    "repo": "https://github.com/alpacaaa/purescript-simplecrypto.git",
+    "version": "v1.0.0"
+  },
   "simple-json": {
     "dependencies": [
       "exceptions",
